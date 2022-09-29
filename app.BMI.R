@@ -1,9 +1,5 @@
 ############################################
-# Data Professor                           #
-# http://youtube.com/dataprofessor         #
-# http://github.com/dataprofessor          #
-# http://facebook.com/dataprofessor        #
-# https://www.instagram.com/data.professor #
+# Shiny app for BMI calculator 
 ############################################
 
 library(shiny)
